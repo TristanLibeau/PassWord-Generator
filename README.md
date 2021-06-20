@@ -31,12 +31,12 @@ The homework was to update a given Java Script file to give the page functionali
 
 This is a Gif of the expected behavior.
 
-![mock-up](./img/Password Generator-mock-up.gif)
+![mock-up](./img/password-generator-mock-up.gif)
 
 # Credits
 
-w3schools.com
-StackOverflaw
-BootCamp Course
+*   w3schools.com
+*   StackOverflaw
+*   BootCamp Course
 
 
