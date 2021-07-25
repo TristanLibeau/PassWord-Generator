@@ -1,5 +1,7 @@
 # Introduction
 
+Password generator:
+
 The deployed Webpage is a PassWord Generator that displays the combine use of HTML, CSS, JavaScrip. The application is as simple as clicking on a buton and you will ask questions about the password your are about to create.
 
 URL of the Web page:
